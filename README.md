@@ -1,6 +1,8 @@
 
 # Hackintosh ROG Strix X570 I-Gaming Ryzen 3 3200g 
 
+![Screenshot 2025-05-29 at 16 03 02](https://github.com/user-attachments/assets/8de6d0bc-a79d-4165-acfb-db440d0f7cad)
+
 ## My Specs:
   |       Type       | Item                                    |
 |:----------------:|-------------------------------------------|
